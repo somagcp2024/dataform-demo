@@ -1,0 +1,5 @@
+defaultProject: coral-mission-443817-c0
+defaultLocation: us-central1
+defaultDataset: dataformcicd
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
